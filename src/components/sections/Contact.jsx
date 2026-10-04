@@ -188,7 +188,7 @@ export default function Contact() {
     { icon: FiMail, label: 'Email', value: personal.email, action: copyEmail, actionLabel: copied ? 'Copied! ✓' : 'Copy' },
     { icon: FiPhone, label: 'Phone', value: personal.phone },
     { icon: FiMapPin, label: 'Location', value: 'Chishtian, Punjab, Pakistan 🇵🇰' },
-    { icon: FiLinkedin, label: 'LinkedIn', value: 'linkedin.com/in/faraz036', href: personal.linkedin },
+    { icon: FiLinkedin, label: 'LinkedIn', value: 'linkedin.com/in/muhammad-faraz58', href: personal.linkedin },
     { icon: FiCheckCircle, label: 'Status', value: 'Open to Internships & Projects', isStatus: true },
   ]
 

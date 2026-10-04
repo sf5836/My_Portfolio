@@ -12,7 +12,7 @@ export const personal = {
   email: "farazdhuddi1320@gmail.com",
   phone: "+92 303 3272180",
   location: "Chishtian, Punjab, Pakistan",
-  linkedin: "https://www.linkedin.com/in/faraz036",
+  linkedin: "https://www.linkedin.com/in/muhammad-faraz58",
   github: "https://github.com/sf5836",
   available: true,
   bio: "Full Stack Web Developer crafting modern web applications with the MERN stack. Currently diving deep into AI/ML and Data Science to build intelligent, data-driven solutions.",
